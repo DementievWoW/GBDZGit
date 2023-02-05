@@ -1,3 +1,6 @@
+
+in branch second
+
 # Git instruction
 
 - git config --global user.name ; git config --global user.email задать имя пользователя и адрес электронной почты
@@ -24,3 +27,4 @@
    ```
 Ловушка джокера 
 [ссылка на яндекс](https://www.google.ru/)
+![ссылка на яндекс](Opera_GX_Logo.png)
